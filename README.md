@@ -1,11 +1,14 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=592520&duration=4000&lines=Olá!+👋;+Eu+sou+a+Jenifer+Carvalho!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=592520&duration=4000&lines=Olá!+👋+Eu+sou+a+Jenifer+Carvalho!;" />
 </h1>
 <div align="center">
-- 🔭 Atuando no Desenvolvimeto Full-Stack de um WebSite.
-- 🌱 Atualmente estou estudando sobre Desenvolvimento Web com .NET e C#
-- 👯 I’m looking to collaborate on ...
+    
+  🔭 Atuando no Desenvolvimeto Full-Stack de um WebSite.
+  
+  🌱 Atualmente estou estudando sobre Desenvolvimento Web com .NET e C#.
+  
 </div>
+
 <br/><br/>
 </hr>
 <h2 align="center">⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
