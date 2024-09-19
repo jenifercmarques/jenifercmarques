@@ -19,7 +19,7 @@ ___
 <h2 align="center">⚒️ Linguagens-Frameworks-Ferramentas ⚒️
 <br/><br/>
 <div align="center">
-    <br/>
+    <br>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mysql,aws," /><br>
 </div>
