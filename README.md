@@ -30,7 +30,7 @@ ___
     <br/>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=jenifercmarques&count_private=true&theme=gruvbox&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=jenifercmarques&count_private=true&show_icons=true&theme=gruvbox&rank_icon=github&border_radius=10" alt="readme stats" />
-    <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenifercmarques&theme=gruvbox"/>
+     <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenifercmarques&theme=gruvbox"/>
   <br/>
     
 </div>
