@@ -8,7 +8,7 @@ Hello, World :octocat: ! I'm Jenifer Carvalho.
 
 <div align="center">
   <br/>
-  🔭 Atuando no Desenvolvimeto Full-Stack de um WebSite.
+  🔭 Atuando no Desenvolvimeto Full-Stack de um WebSite chamado Neuron.
   <br/><br/>
   🌱 Atualmente estou estudando sobre Desenvolvimento Web com .NET e C#.
   <br/><br/>
@@ -27,17 +27,11 @@ ___
 </h2>
 
 <div align=center >
-    <br/>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=jenifercmarques&count_private=true&theme=gruvbox&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=jenifercmarques&count_private=true&show_icons=true&theme=gruvbox&rank_icon=github&border_radius=10" alt="readme stats" />
-     <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenifercmarques&theme=gruvbox"/>
   <br/>
-
-  <div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FMarstefany&s=40&c=0094db&bg=00000000&no=2&ff=digi&tb=Visits%3A+&ta=" alt="visits"></p> 
-<br>
+  <div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jenifercmarques&show_icons=true&count_private=true&hide_border=true&title_color=730202&icon_color=730202&text_color=c9d1d9&bg_color=0d1117" alt="Jenifer Carvalho github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenifercmarques&layout=compact&hide_border=true&title_color=730202&text_color=730202&bg_color=0d1117" />
 </div>
-    
+
 </div>
 
