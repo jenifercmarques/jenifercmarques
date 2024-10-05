@@ -8,7 +8,7 @@ Hello, World :octocat: ! I'm Jenifer Carvalho.
 
 <div align="center">
   <br/>
-  🔭 Atuando no Desenvolvimeto Full-Stack de um WebSite chamado Neuron.
+  🔭 Atuando no Desenvolvimeto Full-Stack do WebSite Neuron.
   <br/><br/>
   🌱 Atualmente estou estudando sobre Desenvolvimento Web com .NET e C#.
   <br/><br/>
