@@ -1,5 +1,5 @@
 <h1 align="center">
-Olá, mundo :octocat: ! Eu sou a Jenifer Carvalho.
+Hello, World :octocat: ! I'm Jenifer Carvalho.
 </h1>
     
 <h2 align="center">
@@ -32,6 +32,12 @@ ___
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=jenifercmarques&count_private=true&show_icons=true&theme=gruvbox&rank_icon=github&border_radius=10" alt="readme stats" />
      <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenifercmarques&theme=gruvbox"/>
   <br/>
+
+  <div align="center">
+<br><p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FMarstefany&s=40&c=0094db&bg=00000000&no=2&ff=digi&tb=Visits%3A+&ta=" alt="visits"></p> 
+<br>
+</div>
     
 </div>
 
