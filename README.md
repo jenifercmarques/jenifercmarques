@@ -1,5 +1,5 @@
 <h1 align="center">
-Hello, World :octocat: ! I'm Jenifer Carvalho.
+Hello, World :octocat: I'm Jenifer Carvalho.
 </h1>
     
 <h2 align="center">
